@@ -1,4 +1,3 @@
-<!doctype html>
 
 <html lang="uz">
 <head>
